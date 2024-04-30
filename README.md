@@ -1,7 +1,7 @@
 # Lead-Time-Prediction 
 ## Descriptive Lead Time Analysis
 
-Disclaimer: this is the leading repository for Python source code of the project. If you wish to work with the standalone Windows executable (no Python knowledge required) please contact: kiryl.batvinyeu@sap.com.
+Disclaimer: this is the leading repository for Python source code of the project. If you wish to work with the standalone Windows executable (no Python knowledge required) please contact: kiryl.batvinyeu@hotmail.com.
 
 The hosted project is a prototype which performs **Descriptive Lead Time Analysis**. It consists in total of three major blocks: 
 
